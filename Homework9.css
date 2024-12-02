@@ -3,3 +3,9 @@
     background-color: lightblue;
 }
 
+
+
+h1 {
+    text-transform: uppercase;
+    text-decoration-line: underline;
+}
